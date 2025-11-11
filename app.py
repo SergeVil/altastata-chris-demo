@@ -2,6 +2,8 @@
 
 """AltaStata ChRIS demo plugin - Simple PyTorch training example."""
 
+__version__ = "0.1.0"
+
 import importlib
 import logging
 import os

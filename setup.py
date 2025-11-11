@@ -24,7 +24,7 @@ setup(
     description="AltaStata reference training plugin for the ChRIS platform",
     author="AltaStata",
     author_email="support@altastata.com",
-    url="https://github.com/AltaStata/altastata-chris-demo",
+    url="https://github.com/SergeVil/altastata-chris-demo",
     py_modules=["app"],
     install_requires=[
         "chris_plugin>=0.4.0",

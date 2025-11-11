@@ -1,7 +1,7 @@
 chris_plugin==0.4.0
 altastata>=0.1.0
-torch>=2.0.0
-torchvision>=0.15.0
-numpy>=1.24.0
-Pillow>=9.0.0
-py4j>=0.10.9
+torch>=2.0.0,<3.0.0
+torchvision>=0.15.0,<1.0.0
+numpy>=1.24.0,<2.0.0
+Pillow>=9.0.0,<11.0.0
+py4j>=0.10.9,<1.0.0
