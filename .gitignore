@@ -1,0 +1,25 @@
+*~
+*.DS_Store
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.docker
+
+.idea/
+.vscode/
+
+venv/
+
+# GC logs
+gc.log
+gc.log.*
+
+# Training outputs
+training_summary.json
+
+# Output directories
+output/
+run/output/
