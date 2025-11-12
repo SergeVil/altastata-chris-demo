@@ -22,7 +22,7 @@ The `ALTASTATA_ACCOUNT_PASSWORD` environment variable is required for authentica
 ## Command-Line Usage
 
 ```bash
-ALTASTATA_ACCOUNT_PASSWORD=your-password \
+ALTASTATA_ACCOUNT_PASSWORD=23456 \
 python app.py \
   --data-root pytorch_test/data/images \
   --model-output pytorch_test/model/best_model.pth \
